@@ -6,8 +6,9 @@
   - E-Mail: michelangelodepascale02@gmail.com 
   - LinkedIn: https://www.linkedin.com/in/michelangelo-de-pascale-816826254
 - 📫 How to reach me (in a less professional and formal way):
-  - Instagram: @sowimdp31plus
-  - Telegram: @SoWimDP31Plus 
+  - Instagram: [@sowimdp31plus](https://www.instagram.com/sowimdp31plus/)
+  - Telegram: [@SoWimDP31Plus ](https://t.me/SoWimDP31Plus)
+- 🌐 My website: https://michelangelodepascale02.altervista.org
 
 <!---
 MichelangeloDePascale02/MichelangeloDePascale02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
